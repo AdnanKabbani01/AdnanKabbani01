@@ -1,16 +1,34 @@
-### Hi there 👋
+### Hey, I'm Adnan 👋
 
-<!--
-**AdnanKabbani01/AdnanKabbani01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 20-year-old Computer Science student based in Lebanon, passionate about software development and constantly learning new technologies. Currently, I'm honing my skills and exploring the world of coding. 
 
-Here are some ideas to get you started:
+📦### Toolbox
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Frontend Development
+- React
+- Next.js
+- TypeScript
+
+#### Mobile App Development
+- Android Studio 📱
+- Flutter 📱
+
+#### Version Control
+- Git
+- GitLab
+
+#### Backend Development
+- Nest.js
+- GraphQL
+- Firebase
+- MySQL
+
+#### AI and Machine Learning
+- Stock Forecasting 📈
+- Natural Language Processing 🗣️
+- Image Recognition 🖼️
+    
+📧### Get in Touch
+
+- **Website:** Explore my portfolio and projects on my [website](https://adnankabbani01.github.io/A/).
+- **LinkedIn:** For quick responses, feel free to DM me on [LinkedIn](www.linkedin.com/in/adnan-kabbani-a231019201900000000).
