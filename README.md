@@ -1,6 +1,6 @@
 ### Hey, I'm Adnan 👋
 
-I'm a 20-year-old Computer Science student based in Lebanon, passionate about software development and constantly learning new technologies. Currently, I'm honing my skills and exploring the world of coding. 
+I'm a 19-year-old Senior Computer Science student based in Lebanon, passionate about software development and constantly learning new technologies. Currently, I'm honing my skills and exploring the world of coding. 
 
 ### Toolbox 📦
 
@@ -8,6 +8,7 @@ I'm a 20-year-old Computer Science student based in Lebanon, passionate about so
 - React
 - Next.js
 - TypeScript
+- HTML/CSS
 
 #### Mobile App Development
 - Android Studio 📱
