@@ -1,6 +1,6 @@
 ### Hey, I'm Adnan 👋
 
-I'm a 22-year-old Senior Computer Science student based in Lebanon, passionate about software development and constantly learning new technologies. Currently, I'm honing my skills and exploring the world of coding. 
+I'm a 21-year-old Senior Computer Science student based in Lebanon, passionate about software development and constantly learning new technologies. Currently, I'm honing my skills and exploring the world of coding. 
 
 ### Toolbox 📦
 
