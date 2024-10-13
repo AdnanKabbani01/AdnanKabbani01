@@ -32,11 +32,11 @@ An innovative Excel add-in that leverages OpenAI models to provide an intelligen
 
 Features:
 
-Data Analysis and Forecasting: Performs complex data analysis tasks, including forecasting and regression analysis.
-Chat Interface: User-friendly chat interface for seamless interaction with the assistant.
-Error Handling: Includes robust error detection and handling mechanisms.
-Security Measures: Scans generated code for potential security risks before execution.
-Customizable: Easily extendable to include more features and functionalities.
+- Data Analysis and Forecasting: Performs complex data analysis tasks, including forecasting and regression analysis.
+- Chat Interface: User-friendly chat interface for seamless interaction with the assistant.
+- Error Handling: Includes robust error detection and handling mechanisms.
+- Security Measures: Scans generated code for potential security risks before execution.
+- Customizable: Easily extendable to include more features and functionalities.
     
 ### Get in Touch 📧
 
