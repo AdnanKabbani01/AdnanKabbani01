@@ -1,6 +1,6 @@
 ### Hey, I'm Adnan 👋
 
-I'm a 21-year-old Senior Computer Science student based in Lebanon, passionate about software development and constantly learning new technologies. Currently, I'm honing my skills and exploring the world of coding. 
+I'm a 20-year-old Senior Computer Science student based in Lebanon, passionate about software development and constantly learning new technologies. Currently, I'm honing my skills and exploring the world of coding. 
 
 ### Toolbox 📦
 
@@ -31,5 +31,5 @@ I'm a 21-year-old Senior Computer Science student based in Lebanon, passionate a
     
 ### Get in Touch 📧
 
-- **Website:** Explore my portfolio and projects on my [website](https://adnankabbani01.github.io/A/).
+- **Website:** Explore my portfolio and projects on my [website]([https://adnankabbani01.github.io/A/](https://adnankabbani01.github.io/Personal-Website/)).
 - **LinkedIn:** For quick responses, feel free to DM me on [LinkedIn](www.linkedin.com/in/adnan-kabbani-a231019201900000000).
