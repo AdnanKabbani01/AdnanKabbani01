@@ -1,4 +1,4 @@
-### Hey, I'm Adnan 👋
+### Hey, I'm Adnan
 
 I'm a 20-year-old Senior Computer Science student based in Lebanon, passionate about software development and constantly learning new technologies.
 
