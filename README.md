@@ -39,4 +39,3 @@ Features:
 
 - **Website:** Explore my portfolio and projects on my [website](https://adnankabbani01.github.io/Personal-Website/).
 - **LinkedIn:** For quick responses, feel free to DM me on [LinkedIn](www.linkedin.com/in/adnan-kabbani-a231019201900000000).
-- 
