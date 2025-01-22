@@ -1,6 +1,4 @@
-### Hey, I'm Adnan
-
-I'm a 20-year-old Senior Computer Science student based in Lebanon, passionate about software development and constantly learning new technologies.
+I'm a Senior Computer Science student based in Lebanon, passionate about software development and constantly learning new technologies.
 
 ### Toolbox 📦
 
@@ -13,7 +11,6 @@ I'm a 20-year-old Senior Computer Science student based in Lebanon, passionate a
 #### Mobile App Development
 - Android Studio 📱
 - Flutter 📱
-
 
 #### Backend Development
 - Nest.js
@@ -42,3 +39,4 @@ Features:
 
 - **Website:** Explore my portfolio and projects on my [website](https://adnankabbani01.github.io/Personal-Website/).
 - **LinkedIn:** For quick responses, feel free to DM me on [LinkedIn](www.linkedin.com/in/adnan-kabbani-a231019201900000000).
+- 
